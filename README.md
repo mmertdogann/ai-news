@@ -1,6 +1,6 @@
 # Voice Controlled React AI-News Application - Alan AI Voice Assistant
 
-![Ai News Application](https://pasteboard.co/JpzGBnc.png)
+![Ai News Application](https://i.ibb.co/TcF5rp2/ai-news.png)
 
 ## Introduction
 
