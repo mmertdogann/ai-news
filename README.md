@@ -1,7 +1,5 @@
 # Voice Controlled React AI-News Application - Alan AI Voice Assistant
 
-### [Live Site](https://alan-news-app.netlify.app/)
-
 ![Voice Controlled React News Application](https://i.ibb.co/TcF5rp2/ai-news.png)
 
 ## Introduction
