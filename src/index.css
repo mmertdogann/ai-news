@@ -6,7 +6,11 @@ body {
 
 body {
   margin: 0;
-  background-color: whitesmoke;
+  background: linear-gradient(
+    to left,
+    rgb(78, 30, 211) 0%,
+    rgb(59, 196, 201) 100%
+  );
 }
 
 * {
