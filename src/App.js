@@ -65,7 +65,7 @@ const App = () => {
           </div>
         ) : null}
         <img
-          src='https://alan.app/voice/images/previews/preview.jpg'
+          src='https://alan.app/voice/images/brand_alan_app_site/header/alan-logo-medium.svg?79f960a7e5cd72b9df3ffbf47acd9ec6'
           className={classes.alanLogo}
           alt='logo'
         />
