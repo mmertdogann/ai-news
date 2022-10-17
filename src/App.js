@@ -15,8 +15,7 @@ const App = () => {
 
   useEffect(() => {
     alanBtn({
-      key:
-        'a4b2ba7eb477ee019671989263131c3e2e956eca572e1d8b807a3e2338fdd0dc/stage',
+      key: 'a4b2ba7eb477ee019671989263131c3e2e956eca572e1d8b807a3e2338fdd0dc/stage',
       onCommand: ({ command, articles, number }) => {
         if (command === 'newHeadlines') {
           setNewsArticles(articles);
@@ -65,7 +64,7 @@ const App = () => {
           </div>
         ) : null}
         <img
-          src='https://alan.app/voice/images/brand_alan_app_site/header/alan-logo-medium.svg?79f960a7e5cd72b9df3ffbf47acd9ec6'
+          src='https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/310681473_781698249884788_5413193905708005780_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=100&ccb=1-7&_nc_sid=dd9801&efg=eyJpIjoidCJ9&_nc_ohc=0Z7Il9TfAtQAX-f3vRF&_nc_ht=scontent-ham3-1.xx&oh=00_AT9XKU8xDrn3X8Z9JFDhahVyei_mYbfuXRBb6_RjOmpKZw&oe=63527017'
           className={classes.alanLogo}
           alt='logo'
         />
